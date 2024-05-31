@@ -1,5 +1,6 @@
 ## About Me
-Currently, I am a Senior at Morgan State University, located in Baltimore, Maryland. I am pursuing a Bachelor’s degree in Computer Science. My expected graduation date is in 2025.
+Welcome to my website! My name is Kyra Elkassar and I am a rising sophmore who attends Towson University in Towson, MD. I am an Information Technology and with my degree I aspire to work in the BioTechnology field. I find it very intriguing how a company can interconnect biological sciences and technoligical sciences in order to best succeed their buisness processes. Knowing these sciences and advancing these technologies can greatly improve the lives of humans. 
+
 
 [Linkedin Profile](https://www.linkedin.com/in/michael-adeleke-4a1228217/)
 
