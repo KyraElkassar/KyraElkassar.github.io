@@ -1,7 +1,7 @@
 ## About My Mentor
 
-My mentor, Dr. Roshan Patel from the Morgan State University, is a researcher who’s work focuses on Brain-Computer Interfaces, as well as Human-Robot Interaction. His work aims to leverage novel neurophysiological sensing technologies, software engineering, and robotics to create tools and applications that support the exploration of Brain-Robot Interaction.
+My mentor, Dr. Roshan Paudel from Morgan State University, is a researcher who’s work focuses on computational biology. He is currently a high level computer science professor, as well as a professor of bioinformatics for individuals pursuing their graduate degree in biotechnology sciences. His work aims to develop novel stochastic models of Calcium and other ion channels in cardiac myocytes. His main focus with his work as a professor is to maintain a high rentention rate of computer science undergraduate students through his intergration of critical thinking, active learning and project based learning into intro to CS programming courses.
 
-[Mentor's Website](https://htilua.org/about-the-pi)
+[Mentor's Website](https://www.morgan.edu/computer-science/faculty-and-staff/roshan-paudel)
 
 
