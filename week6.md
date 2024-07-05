@@ -1,0 +1,1 @@
+This week my team and I began the second part of our project.  We began researching ways that we can used feature selection methods in order to determine the top 10 genes that can be used to determine lung cancer. During this time we read previous researches that were done in order to compare the different ways we can build our model. One paper that I read 
