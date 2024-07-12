@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post 
 title: Week 6
 author: Kyra Elkassar 
 ---
